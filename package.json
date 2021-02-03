@@ -1,0 +1,20 @@
+{
+  "name": "timberline_gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-Gibson/Timberline_GQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-Gibson/Timberline_GQL/issues"
+  },
+  "homepage": "https://github.com/N-Gibson/Timberline_GQL#readme"
+}
