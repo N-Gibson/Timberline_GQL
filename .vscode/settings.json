@@ -1,0 +1,36 @@
+{
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "files.exclude": {
+    "**/**.zip": false,
+    "**/.babelrc": false,
+    "**/.elasticbeanstalk": false,
+    "**/.eslintrc.js": false,
+    "**/.gitignore": false,
+    "**/.gitmodules": false,
+    "**/.prettierrc": false,
+    "**/babel.config.js": false,
+    "**/build": false,
+    "**/dist": false,
+    "**/node_modules/**": false,
+    "**/package-lock.json": false,
+    "**/Procfile": false,
+    "**/serve.json": false,
+    "workspaceConfiguration": false
+  },
+  "files.autoSave": "onWindowChange",
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "cSpell.enableFiletypes": [
+    "graphql",
+    "jsx-tags",
+    "log"
+  ]
+}
