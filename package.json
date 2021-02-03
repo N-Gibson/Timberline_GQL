@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/N-Gibson/Timberline_GQL/issues"
   },
-  "homepage": "https://github.com/N-Gibson/Timberline_GQL#readme"
+  "homepage": "https://github.com/N-Gibson/Timberline_GQL#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "apollo-server-express": "^2.19.2",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0"
+  }
 }
